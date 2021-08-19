@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "declaration": true,
+        "lib": ["ESNext"],
+        "resolveJsonModule": true,
+        "removeComments": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "target": "ESNext",
+        "sourceMap": true,
+        "baseUrl": "./src",
+        "rootDir": "./src",
+        "incremental": true,
+        "skipLibCheck": true,
+        "jsx": "react-jsx",
+        "moduleResolution": "node",
+        "noEmit": true
+    },
+    "ts-node": {
+        "moduleTypes": { ".": "cjs" }
+    }
+}
