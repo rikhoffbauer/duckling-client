@@ -199,7 +199,7 @@
     "runMode": "onsave"
   },
   "name": "duckling-client",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A client for [duckling](https://github.com/facebook/duckling).",
   "repository": {
     "type": "git",
